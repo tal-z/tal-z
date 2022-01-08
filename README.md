@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Tal! 
+### 👋
 
-<!--
-**tal-z/tal-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently attending the [Recurse Center](https://www.recurse.com/). Previously, I worked for the NYC Dept. of Sanitation, developing composting programs, managing data for an emergency food delivery program, and reporting NYC's annual recycling statistics. 
 
-Here are some ideas to get you started:
+###### What I'm up to
+- 🔭 I’m working on: [WikiFilms](https://github.com/tal-z/WikiFilms), [tMinusMBTA](https://tminusmbta.herokuapp.com/), and [ColorController](https://github.com/tal-z/ColorController).
+- 🌱 I’m learning: full stack web development using Python and Javascript, with a bit of data science, NLP, and GIS mixed in to keep it fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Get in touch
+- 📧 Email me: talzaken@gmail.com
+- 💻 Visit my website: [www.talzaken.com](http://www.talzaken.com)
+
