@@ -1,7 +1,7 @@
 ### Hi, I'm Tal! 
 ### 👋
 
-I'm currently attending the [Recurse Center](https://www.recurse.com/). Previously, I worked for the NYC Dept. of Sanitation, developing composting programs, managing data for an emergency food delivery program, and reporting NYC's annual recycling statistics. 
+I'm currently attending the [Recurse Center](https://www.recurse.com/). Previously, I worked for the NYC Dept. of Sanitation, where I developed composting programs, managed data for an emergency food delivery program, and reported NYC's annual recycling statistics. 
 
 ###### What I'm up to
 - 🔭 I’m working on: [WikiFilms](https://github.com/tal-z/WikiFilms), [tMinusMBTA](https://tminusmbta.herokuapp.com/), and [ColorController](https://github.com/tal-z/ColorController).
