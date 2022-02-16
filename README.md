@@ -4,7 +4,7 @@ I'm currently attending the [Recurse Center](https://www.recurse.com/). Previous
 
 ###### What I'm up to
 - 🔭 I’m working on [TextCam](https://github.com/tal-z/TextCam), [Beantown Compost](https://github.com/tal-z/BeantownCompost), and [ColorController](https://github.com/tal-z/ColorController).
-- 🌱 I’m learning full stack web development using Python and Javascript, with a bit of data science, NLP, and GIS mixed in to keep it fun.
+- 🌱 I’m learning more about full stack web development using Python and Javascript, with a bit of data science, NLP, and GIS mixed in to keep it fun.
 
 ###### Get in touch
 - 📧 Email me: talzaken@gmail.com
