@@ -1,6 +1,7 @@
 ### Hi, I'm Tal! 
 
-I'm currently attending the [Recurse Center](https://www.recurse.com/). Previously, I worked for the NYC Dept. of Sanitation, where I developed composting programs, managed data for an emergency food delivery program, and reported NYC's annual recycling statistics. 
+I am a Software Engineer at [Pearl Health](https://pearlhealth.com/). Prior to joining Pearl, I worked for the NYC Department of Sanitation, where I developed citywide composting programs, managed data for an emergency food delivery program, and oversaw reporting of NYC's annual recycling statistics. 
+Also, I recently attended the [Recurse Center](https://www.recurse.com/).
 
 ###### What I'm up to
 - 🔭 I’m working on [TextCam](https://github.com/tal-z/TextCam), [Beantown Compost](https://github.com/tal-z/BeantownCompost), and [ColorController](https://github.com/tal-z/ColorController).
