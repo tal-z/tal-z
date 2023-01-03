@@ -5,9 +5,9 @@ I also attended the [Recurse Center](https://www.recurse.com/) last year. It was
 
 ###### What I'm up to
 - 📖 I'm reading [Designing Data-Intensive Applications by Martin Klepperman](https://dataintensive.net/).
-- 💬 I’m building an emoji-centric chat application and game, presnetly called [GuessMoji](https://github.com/tal-z/GuessMoji), using websockets.
+- 💬 I’m building an emoji-centric chat application and game, presently called [GuessMoji](https://github.com/tal-z/GuessMoji), using websockets.
 
 ###### Get in touch
 - 📧 Email me: talzaken@gmail.com
-- 💻 Visit my website: [www.talzaken.com](http://www.talzaken.com)
+- 💻 Visit my website: [www.talzaken.pythonanywhere.com](http://www.talzaken.com)
 
