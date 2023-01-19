@@ -5,7 +5,8 @@ I also attended the [Recurse Center](https://www.recurse.com/) last year. It was
 
 ###### What I'm up to
 - 📖 I'm reading [Designing Data-Intensive Applications by Martin Klepperman](https://dataintensive.net/).
-- 💬 I’m building an emoji-centric chat application and game, presently called [GuessMoji](https://github.com/tal-z/GuessMoji), using websockets.
+- 🐈 I'm building a browser extension called _[Catnip!](https://github.com/tal-z/catnip)_, which improves your web browsing experience by showing you more cats. 
+- 💬 I’m slowly building an emoji-centric chat application and game, presently called [GuessMoji](https://github.com/tal-z/GuessMoji), using websockets.
 
 ###### Get in touch
 - 📧 Email me: talzaken@gmail.com
