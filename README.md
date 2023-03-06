@@ -10,5 +10,4 @@ I also attended the [Recurse Center](https://www.recurse.com/) last year. It was
 
 ###### Get in touch
 - 📧 Email me: talzaken@gmail.com
-- 💻 Visit my website: [talzaken.com](talzaken.pythonanywhere.com)
-
+- 💻 Visit my website: [talzaken.com](https://talzaken.pythonanywhere.com/)
