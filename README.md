@@ -1,7 +1,7 @@
 ### Hi, I'm Tal! 
 
 I am a Software Engineer at [Pearl Health](https://pearlhealth.com/). Prior to joining Pearl, I worked for the NYC Department of Sanitation, where I developed citywide composting programs, managed data for an emergency food delivery program, and oversaw reporting of NYC's annual recycling statistics. 
-I also attended the [Recurse Center](https://www.recurse.com/) last year. It was awesome.
+I also attended the [Recurse Center](https://www.recurse.com/) a little while back. It was awesome.
 
 ###### What I'm up to
 - 📖 I'm reading [Designing Data-Intensive Applications by Martin Klepperman](https://dataintensive.net/).
