@@ -4,7 +4,7 @@ I am a Software Engineer at [Pearl Health](https://pearlhealth.com/). Prior to j
 I also attended the [Recurse Center](https://www.recurse.com/) a little while back. It was awesome.
 
 ###### What I'm up to
-- 📖 I'm reading [Designing Data-Intensive Applications by Martin Klepperman](https://dataintensive.net/).
+- 📖 I'm reading [Designing Data-Intensive Applications by Martin Kleppmann](https://dataintensive.net/).
 - 💰 I'm writing a Discord bot, called [BetBot](https://github.com/tal-z/BetBot) for keeping track of casual wagers between friends.
 - 🕶 I'm building a Chrome browser extension called [Shades](https://github.com/tal-z/OverlayExtension), which allows you to configure and apply semi-transparent colored overlays on different browser tabs, that persist while you navigate the web.
 
