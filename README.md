@@ -10,7 +10,7 @@ I also attended the [Recurse Center](https://www.recurse.com/) a little while ba
 
 ###### What I finished recently
 - 🐈 I built a browser extension called _[Catnip!](https://github.com/tal-z/catnip)_, which improves your web browsing experience by showing you more cats.
-   💬 I built [Telephonish](https://github.com/tal-z/telephonish), AKA the classic game of Telephone translated over the web into stories, drawings, poems, and more. Built using React, Django for [the backend](https://github.com/tal-z/telephonish_be), and websockets.
+- 💬 I built [Telephonish](https://github.com/tal-z/telephonish), AKA the classic game of Telephone translated over the web into stories, drawings, poems, and more. Built using React, Django for [the backend](https://github.com/tal-z/telephonish_be), and websockets.
 - 💬 I built an emoji-centric chat application and game called [GuessMoji](https://github.com/tal-z/GuessMoji), also using websockets.
 
 ###### Get in touch
